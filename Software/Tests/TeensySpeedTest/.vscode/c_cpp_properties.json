@@ -1,0 +1,36 @@
+{
+	"configurations": [
+		{
+			"name": "Win32",
+			"includePath": [
+				"${workspaceFolder}/**",
+				"C:/Program Files (x86)/Arduino/hardware/teensy/avr/cores/teensy4",
+				"C:/Program Files (x86)/Arduino/hardware/teensy/avr/libraries/DS1307RTC",
+				"C:/Program Files (x86)/Arduino/hardware/teensy/avr/libraries/Wire",
+				"C:/Program Files (x86)/Arduino/hardware/teensy/avr/libraries/Time",
+				"C:/Program Files (x86)/Arduino/hardware/teensy/avr/libraries/SerialFlash",
+				"C:/Program Files (x86)/Arduino/hardware/teensy/avr/libraries/EEPROM",
+				"C:/Program Files (x86)/Arduino/hardware/teensy/avr/libraries/SPI",
+				"C:/Program Files (x86)/Arduino/hardware/tools/arm/arm-none-eabi/include/c++/5.4.1/ext/"
+			],
+			"defines": [
+				"_DEBUG",
+				"VSCODE",
+				"UNICODE",
+				"_UNICODE",
+				"USB_SERIAL",
+				"__IMXRT1062__",
+				"F_CPU=450000000",
+				"TEENSYDUINO=152",
+				"__arm__",
+				"ARDUINO=10812",
+				"ARDUINO_TEENSY40"
+			],
+			"compilerPath": "C:/Program Files (x86)/Arduino/hardware/tools/arm/bin/arm-none-eabi-gcc.exe",
+			"cStandard": "c11",
+			"cppStandard": "c++17",
+			"intelliSenseMode": "gcc-x64"
+		}
+	],
+	"version": 4
+}
