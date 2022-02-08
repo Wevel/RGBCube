@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "AON7804")(type "KiCad")(uri "${KIPRJMOD}/AON7804.kicad_sym")(options "")(descr ""))
   (lib (name "AP64350")(type "KiCad")(uri "${KIPRJMOD}/AP64350.kicad_sym")(options "")(descr ""))
+  (lib (name "TinyS3")(type "KiCad")(uri "${KIPRJMOD}/TinyS3/symbols/TinyS3.kicad_sym")(options "")(descr ""))
 )

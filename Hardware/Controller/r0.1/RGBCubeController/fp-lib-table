@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name "FH12-20S-0.5SVA_54")(type "KiCad")(uri "${KIPRJMOD}/FH12-20S-0.5SVA_54.pretty")(options "")(descr ""))
   (lib (name "AON7804")(type "KiCad")(uri "${KIPRJMOD}/AON7804.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/TinyS3/footprints")(options "")(descr ""))
+  (lib (name "PTS841")(type "KiCad")(uri "${KIPRJMOD}/PTS841.pretty")(options "")(descr ""))
 )
