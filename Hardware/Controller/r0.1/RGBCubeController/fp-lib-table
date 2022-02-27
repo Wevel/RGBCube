@@ -3,4 +3,8 @@
   (lib (name "AON7804")(type "KiCad")(uri "${KIPRJMOD}/AON7804.pretty")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/TinyS3/footprints")(options "")(descr ""))
   (lib (name "PTS841")(type "KiCad")(uri "${KIPRJMOD}/PTS841.pretty")(options "")(descr ""))
+  (lib (name "TSOT")(type "KiCad")(uri "${KIPRJMOD}/TSOT.pretty")(options "")(descr ""))
+  (lib (name "CustomTestPoint.pretty")(type "KiCad")(uri "${KIPRJMOD}/CustomTestPoint.pretty")(options "")(descr ""))
+  (lib (name "Qwiic")(type "KiCad")(uri "${KIPRJMOD}/Qwiic")(options "")(descr ""))
+  (lib (name "SilkscreenPatterns")(type "KiCad")(uri "${KIPRJMOD}/SilkscreenPatterns")(options "")(descr ""))
 )
